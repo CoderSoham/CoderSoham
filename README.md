@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and CSE Student
 -----------------------------
 
-I'm a passionate SY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in JS framework and React framework. About Me 🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering, where I am honing my skills and expanding my horizons. 💻 Technical Expertise: My areas of expertise encompass Web Development, Web Design, and Problem Solving. I thrive on crafting elegant and efficient solutions to real-world challenges. 🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C, C++, Python, and the web trio: HTML, CSS, and JavaScript. I believe in the power of versatility when it comes to solving complex problems. Currently I'm learning MERN and started projects and contributions on the same.
+I'm a passionate SY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in JS framework and React framework.
+About Me 
+🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering, where I am honing my skills and expanding my horizons.
+💻 Technical Expertise: My areas of expertise encompass Web Development, Web Design, and Problem Solving. I thrive on crafting elegant and efficient solutions to real-world challenges. 
+🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C, C++, Python, and the web trio: HTML, CSS, and JavaScript. I believe in the power of versatility when it comes to solving complex problems. Currently I'm learning MERN and started projects and contributions on the same.
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [sohamboravke2004@gmail.com](mailto:sohamboravke2004@gmail.com)
