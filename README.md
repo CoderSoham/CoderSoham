@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Soham Boravke and I'm a Web Developer from Pune, India.</h2>
+<h2 align="left">Hi 👋! My name is Soham Boravke and I'm a Web Developer and Quant Enthusiast from Pune, India.</h2>
 
 ###
 
-<p align="left">I'm a passionate SY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in JS framework and React framework. <br>About Me <br>🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering, where I am honing my skills and expanding my horizons. <br>💻 Technical Expertise: My areas of expertise encompass Web Development, Web Design, and Problem Solving. I thrive on crafting elegant and efficient solutions to real-world challenges.<br> 🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C, C++, Python, and the web trio: HTML, CSS, and JavaScript. I believe in the power of versatility when it comes to solving complex problems. Currently I'm learning MERN and started projects and contributions on the same.<br>🤝  I'm open to collaborating on Hacktober, Hackfest and GSOC and other open source programs</p>
+<p align="left">I'm a passionate SY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in JS framework and React framework along with pyhon projects in real time stock visualisations and prediction. <br>About Me <br>🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering, where I am honing my skills and expanding my horizons. <br>💻 Technical Expertise: My areas of expertise encompass Web Development, Quantitative Analysis, and Problem Solving.<br> 🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C, C++, Python, and the web trio: HTML, CSS, and JavaScript along with it's libraries. I believe in the power of versatility when it comes to solving complex problems. Currently I'm learning MERN and started projects and contributions on the same.<br>🤝  I'm open to collaborating on all and any open source programs</p>
 
 ###
 
