@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Soham Boravke and I'm a Web Developer and Quant Enthusiast from Pune, India.</h2>
+<h2 align="left">Hi 👋! I'm Soham Boravke, a Web Developer and Quant Enthusiast from Pune, India.</h2>
 
 ###
 
-<p align="left">I'm a passionate TY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in React and NEXT framework along with python projects in real time stock visualisations and prediction. <br>About Me <br>🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering<br>💻 Technical Expertise: My areas of expertise encompass Web Development, Quantitative Developement, and Problem Solving.<br> 🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C++, Python, R and Full Stack Development.<br>🤝  I'm open to collaborating on all and any open source programs</p>
+<p align="left">I'm a passionate TY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in React and NEXT framework along with quant python projects in real time stock visualisations and prediction using ML models. <br>About Me <br>🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering<br>💻 Technical Expertise: My areas of expertise encompass Web Development, Quantitative Developement, and Problem Solving.<br> 🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C++, Python, R and Full Stack Development.<br>🤝  I'm open to collaborating on all and any open source programs</p>
 
 ###
 
