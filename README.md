@@ -1,62 +1,53 @@
-## Soham Boravke
+## Hi, I'm Soham
 
-Software Engineer at **Armor EDC**, Pune. I work on backend services and data
-pipelines in the network and application security domain.
+I'm a software engineer at Armor EDC in Pune, working on backend services and
+data pipelines in the security space.
 
-Most of what I build lives at the boundary between a system and the messy real
-world it has to ingest — audio, market data, resumes, job postings, voice. That
-boundary is where the interesting failures are, and it's most of what I find
-worth writing about.
+Most of what I build sits where a system meets messy real-world input — audio,
+market data, résumés, live speech. I like that boundary. It's where the
+interesting problems are, and it's where I've learned the most.
 
----
+### Currently building
 
-### What I'm working on
+**Jarvis** is a voice assistant that runs entirely on my own machine. Wake word,
+speech recognition, and response are all local, and it's fast enough that
+talking to it feels like a conversation rather than a wait. I'm wiring up the
+agent layer now so it can use tools and reach the internet when it needs to.
 
-**Jarvis** *(private)* — a local-first voice assistant with a typed asyncio
-event bus, wake-word detection, and a measured latency budget. End-of-speech to
-transcript runs 770–890 ms at ~13% of one core idle. Currently wiring the
-agentic brain and an MCP client.
+**rolefit** answers the question résumé scanners skip. Instead of "does this
+résumé match this job," it works out what you should be applying for in the
+first place, and which single skill would open the most doors if you learned it
+next.
 
-**rolefit** *(private)* — a career diagnostic that answers the question every
-résumé tool skips: not "does this résumé match this job," but "what should I be
-applying for, and what do I learn next?" Ranks missing skills by how many
-otherwise-qualified postings each one unlocks.
+### Things I've built
 
----
+**[NLP_FIR](https://github.com/CoderSoham/NLP_FIR)** turns a recording of an
+emergency call into a structured report. It transcribes the call and detects the
+language automatically, classifies what kind of emergency it is, pulls out names
+and locations, writes a summary, and produces a printable FIR document. The
+whole pipeline runs on CPU with no API keys — it was meant to work on modest
+hardware, and it does.
 
-### Selected work
+**[FSD-Project](https://github.com/CoderSoham/FSD-Project)** is a real-time chat
+and video platform. Accounts and friend invitations, direct messaging with
+history, and group video rooms with screen sharing and call recording. The live
+layer runs on Socket.IO, and the video is genuinely peer-to-peer over WebRTC
+rather than routed through a server.
 
-| | |
-|---|---|
-| **[NLP_FIR](https://github.com/CoderSoham/NLP_FIR)** | Emergency call triage — Whisper transcription with language auto-detect, zero-shot classification, NER, summarisation, and a generated FIR report. Runs CPU-only, no API keys. |
-| **[FSD-Project](https://github.com/CoderSoham/FSD-Project)** | Real-time chat and video platform. WebRTC signalling over nine socket handlers, JWT auth, screen share, call recording. Deployed. |
-| **[StockPredictor](https://github.com/CoderSoham/StockPredictor)** | Price forecasting experiments — and the walk-forward harness that proved my own earlier models were leaking their target. Reports the negative result. |
-| **[Job-Recommendation-using-ML](https://github.com/CoderSoham/Job-Recommendation-using-ML)** | Résumé parsing to skill-gap analysis to live job matching through the Adzuna API. |
+**[StockPredictor](https://github.com/CoderSoham/StockPredictor)** collects a
+few years of experiments in short-horizon price prediction — tree ensembles,
+LSTMs, transformers, graph networks, Monte Carlo simulation — alongside a
+walk-forward evaluation harness that tests them properly across nine
+instruments. Building the harness taught me more than any of the models did.
 
----
-
-### A note on StockPredictor
-
-It's the repo I'd point at first, because it contains its own negative result.
-
-Earlier versions reported sub-1% prediction error. That error was target
-leakage — `Close` sat inside the feature matrix while `Close` was the label. I
-found it, built a leakage-free walk-forward evaluation across nine instruments
-and three horizons, and measured what was actually there: **no model beat a
-persistence baseline, and none beat the majority-class baseline on direction.**
-
-That's the honest answer, it's written up in the README, and I think finding it
-is worth more than the number it replaced.
-
----
+**[Job-Recommendation-using-ML](https://github.com/CoderSoham/Job-Recommendation-using-ML)**
+reads a résumé, extracts skills with named-entity recognition, predicts a
+suitable job title, and compares what someone has against what a role actually
+asks for.
 
 ### Tools
 
-Python · TypeScript · C# · Node · React · PostgreSQL · MongoDB · Docker · Linux
+Python, TypeScript, C#, Node, React, PostgreSQL, MongoDB, Docker, Linux.
 
-Day to day: backend services, data pipelines, and the ML tooling around them.
-
----
-
-<!-- Add your real LinkedIn URL here before publishing, or delete this line. -->
+<!-- Add your LinkedIn here, or delete this line. -->
 📍 Pune, India
