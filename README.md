@@ -1,75 +1,62 @@
-<h2 align="left">Hi 👋! I'm Soham Boravke, a Web Developer and Quant Enthusiast from Pune, India.</h2>
+## Soham Boravke
 
-###
+Software Engineer at **Armor EDC**, Pune. I work on backend services and data
+pipelines in the network and application security domain.
 
-<p align="left">I'm a passionate TY Btech student majoring in Computer Science and Engineering. I'm a self taught Web Developer with projects in React and NEXT framework along with quant python projects in real time stock visualisations and prediction using ML models. <br>About Me <br>🎓 Education: I am currently pursuing my Bachelor's degree in Computer Science and Engineering<br>💻 Technical Expertise: My areas of expertise encompass Web Development, Quantitative Developement, and Problem Solving.<br> 🛠️ Languages and Technologies: I'm well-versed in various programming languages, including C++, Python, R and Full Stack Development.<br>🤝  I'm open to collaborating on all and any open source programs</p>
+Most of what I build lives at the boundary between a system and the messy real
+world it has to ingest — audio, market data, resumes, job postings, voice. That
+boundary is where the interesting failures are, and it's most of what I find
+worth writing about.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### What I'm working on
 
-###
+**Jarvis** *(private)* — a local-first voice assistant with a typed asyncio
+event bus, wake-word detection, and a measured latency budget. End-of-speech to
+transcript runs 770–890 ms at ~13% of one core idle. Currently wiring the
+agentic brain and an MCP client.
 
-<div align="left">
-  <a href="https://instagram.com/soham_boravke?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:sohamboravke2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/soham-boravke-449701213/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+**rolefit** *(private)* — a career diagnostic that answers the question every
+résumé tool skips: not "does this résumé match this job," but "what should I be
+applying for, and what do I learn next?" Ranks missing skills by how many
+otherwise-qualified postings each one unlocks.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderSoham&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderSoham&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Selected work
 
+| | |
+|---|---|
+| **[NLP_FIR](https://github.com/CoderSoham/NLP_FIR)** | Emergency call triage — Whisper transcription with language auto-detect, zero-shot classification, NER, summarisation, and a generated FIR report. Runs CPU-only, no API keys. |
+| **[FSD-Project](https://github.com/CoderSoham/FSD-Project)** | Real-time chat and video platform. WebRTC signalling over nine socket handlers, JWT auth, screen share, call recording. Deployed. |
+| **[StockPredictor](https://github.com/CoderSoham/StockPredictor)** | Price forecasting experiments — and the walk-forward harness that proved my own earlier models were leaking their target. Reports the negative result. |
+| **[Job-Recommendation-using-ML](https://github.com/CoderSoham/Job-Recommendation-using-ML)** | Résumé parsing to skill-gap analysis to live job matching through the Adzuna API. |
+
+---
+
+### A note on StockPredictor
+
+It's the repo I'd point at first, because it contains its own negative result.
+
+Earlier versions reported sub-1% prediction error. That error was target
+leakage — `Close` sat inside the feature matrix while `Close` was the label. I
+found it, built a leakage-free walk-forward evaluation across nine instruments
+and three horizons, and measured what was actually there: **no model beat a
+persistence baseline, and none beat the majority-class baseline on direction.**
+
+That's the honest answer, it's written up in the README, and I think finding it
+is worth more than the number it replaced.
+
+---
+
+### Tools
+
+Python · TypeScript · C# · Node · React · PostgreSQL · MongoDB · Docker · Linux
+
+Day to day: backend services, data pipelines, and the ML tooling around them.
+
+---
+
+<!-- Add your real LinkedIn URL here before publishing, or delete this line. -->
+📍 Pune, India
